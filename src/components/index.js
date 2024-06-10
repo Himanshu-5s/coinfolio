@@ -1,3 +1,4 @@
+// All the exports from components will be done from this file
 export  { default as Navbar} from './Navbar';
 export { default as Homepage} from './Homepage';
 export { default as Exchanges} from './Exchanges';
