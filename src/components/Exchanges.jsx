@@ -7,6 +7,7 @@ import { useGetCryptoExchangesQuery } from '../services/cryptoExchangesApi';
 import Loader from './Loader';
 
 const { Text } = Typography;
+
 const { Panel } = Collapse;
 
 const Exchanges = () => {
